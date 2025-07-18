@@ -18,29 +18,35 @@ Working across HDL, simulation, and design tools:
 
 ### 🛠️ Tools & Tech Stack
 
-#### Languages & HDLs  
-![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?style=flat-square)  
-![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-purple?style=flat-square)  
-![MATLAB](https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square)  
-![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square)  
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)  
+#### 🧠 Languages & HDLs  
+<img src="https://img.shields.io/badge/HDL-Verilog-blue?style=flat-square" alt="Verilog" width="120"/>
+<img src="https://img.shields.io/badge/HDL-SystemVerilog-purple?style=flat-square" alt="SystemVerilog" width="190"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/>  
 
-#### Simulation & Design Tools  
-![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange?style=flat-square)  
-![Cadence Virtuoso](https://img.shields.io/badge/EDA-Cadence%20Virtuoso-6c3483?style=flat-square)  
-![LTspice](https://img.shields.io/badge/Tool-LTspice-green?style=flat-square)  
 
-#### Hardware & Platforms  
-![PYNQ-Z2](https://img.shields.io/badge/FPGA-PYNQ--Z2-red?style=flat-square)  
-![Xilinx](https://img.shields.io/badge/Platform-Xilinx-ffcc00?style=flat-square)  
+#### 🧪 Simulation & Design Tools  
+<img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" alt="Vivado" width="50"/>  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMDh-zZK6CGbGsZCymKjtR_WRgIk0bPIOmg&s" alt="Cadence Virtuoso" width="120"/>  
+<img src="https://gramfile.com/wp-content/uploads/2024/08/LTspice-logo-icon.png" alt="LTspice" width="50"/>  
 
+#### 🔧 Hardware & Platforms  
+<img src="https://img.shields.io/badge/Board-PYNQ Z2-pink?style=flat-square" alt="PYNQ Z2" width="160"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Xilinx_logo.svg/1200px-Xilinx_logo.svg.png" alt="Xilinx" width="80"/>  
 
 ---
 
 ### Let's Connect!
--  [LinkedIn](www.linkedin.com/in/dakshaasreerama)
--  Email: dakshaa1125@gmail.com
 
----
+<a href="https://www.linkedin.com/in/dakshaasreerama/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
+</a>
+<br>
+📧 Email: dakshaa1125@gmail.com
 
-> “It always seems impossible until it's done.” – Nelson Mandela
+
+
+
+
+
