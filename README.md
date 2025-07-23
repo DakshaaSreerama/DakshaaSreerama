@@ -21,7 +21,7 @@ Working across HDL, simulation, and design tools:
 #### 🧠 Languages & HDLs  
 <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=flat-square" alt="Verilog" width="120"/>
 <img src="https://img.shields.io/badge/HDL-SystemVerilog-purple?style=flat-square" alt="SystemVerilog" width="190"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>  
  
 
