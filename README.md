@@ -11,9 +11,7 @@ Working across HDL, simulation, and design tools:
 ### 🚀 Current Projects & Learning
 - **Design and Analysis of CMOS Inverter** using *Cadence Virtuoso*
 - **Design of 8-bit ALU** and **implementation on FPGA (PYNQ-Z2)**
-- **Text Comparison Tool** built using *Python* (Highlights differences word-by-word)
-- **MATLAB-based Sigma-Delta ADC** *(Ongoing Project)*
-- Currently learning **SystemVerilog Constrained Randomization** and **UVM Basics**
+
 
 
 ### 🛠️ Tools & Tech Stack
