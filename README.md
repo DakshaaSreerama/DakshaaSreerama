@@ -30,7 +30,7 @@ Working across HDL, simulation, and design tools:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMDh-zZK6CGbGsZCymKjtR_WRgIk0bPIOmg&s" alt="Cadence Virtuoso" width="120"/>  
 <img src="https://gramfile.com/wp-content/uploads/2024/08/LTspice-logo-icon.png" alt="LTspice" width="50"/>
 <img src="https://cdn.comsol.com/pressrelease/pressman/pr-default-gui-cube.png" alt="COMSOL" width="50"/>
-<img src="https://gts-online.net/wp-content/uploads/2021/02/NI-LabVIEW-Logo.png?x75015" alt="Labview" width="80"/> 
+<img src="https://labviewwiki.org/w/images/thumb/9/9f/LV2020.png/256px-LV2020.png" alt="Labview" width="80"/> 
 
 #### 🔧 Hardware & Platforms  
 <img src="https://img.shields.io/badge/Board-PYNQ Z2-pink?style=flat-square" alt="PYNQ Z2" width="160"/>
