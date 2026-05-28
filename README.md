@@ -1,10 +1,10 @@
 ### Hello! I'm Dakshaa 🙋‍♀️
-5th Semester Electronics(VLSI) Student @ NMIT Bengaluru  
+6th Semester Electronics(VLSI) Student @ NMIT Bengaluru  
 
 Passionate about bridging Analog & Digital VLSI — from CMOS Design to RTL Coding and FPGA Implementation
 
 Working across HDL, simulation, and design tools: 
-**Verilog| SystemVerilog| MATLAB| Vivado| Cadence Virtuoso| LTspice**
+**Verilog| SystemVerilog| Vivado| Cadence Virtuoso| LTspice**
 
 ---
 
