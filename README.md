@@ -13,8 +13,6 @@ Working across HDL, simulation, and design tools:
 - **Design of 8-bit ALU** and **implementation on FPGA (PYNQ-Z2)** and **Synthesized and analyzed reports using Cadence Genus**
 - **Parameterized Synchronous FIFO IP core design**
 - **Mini Processor with Python Assembler on PYNQ-Z2 MpSOc**
-- 
-
 
 
 ### 🛠️ Tools & Tech Stack
