@@ -4,13 +4,16 @@
 Passionate about bridging Analog & Digital VLSI — from CMOS Design to RTL Coding and FPGA Implementation
 
 Working across HDL, simulation, and design tools: 
-**Verilog| SystemVerilog| Vivado| Cadence Virtuoso| LTspice**
+**Verilog| SystemVerilog| Vivado| Cadence Virtuoso|Cadence genus| Cadence Innovus| LTspice**
 
 ---
 
 ### 🚀 Current Projects & Learning
 - **Design and Analysis of CMOS Inverter** using *Cadence Virtuoso*
-- **Design of 8-bit ALU** and **implementation on FPGA (PYNQ-Z2)**
+- **Design of 8-bit ALU** and **implementation on FPGA (PYNQ-Z2)** and **Synthesized and analyzed reports using Cadence Genus**
+- **Parameterized Synchronous FIFO IP core design**
+- **Mini Processor with Python Assembler on PYNQ-Z2 MpSOc**
+- 
 
 
 
