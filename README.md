@@ -1,10 +1,26 @@
 ### Hello! I'm Dakshaa 🙋‍♀️
-6th Semester Electronics(VLSI) Student @ NMIT Bengaluru  
+6th Semester Electronics(VLSI) Student @ NMIT Bengaluru
 
-Passionate about bridging Analog & Digital VLSI — from CMOS Design to RTL Coding and FPGA Implementation
+### ASIC Physical Design | RTL to GDSII | Cadence Innovus | RTL Design | FPGA implementation
 
-Working across HDL, simulation, and design tools: 
-**Verilog| SystemVerilog| Vivado| Cadence Virtuoso|Cadence genus| Cadence Innovus| LTspice**
+<img src="https://readme-typing-svg.herokuapp.com/?lines=VLSI+Engineering+Student;RTL+Design+Enthusiast;FPGA+Developer;ASIC+Physical+Design;RTL+to+GDSII;Cadence+Genus;Cadence+Innovus;Future+Semiconductor+Engineer&center=true&width=600&height=45">
+
+I am a VLSI Engineering student with a strong passion for transforming digital designs into silicon. My interests lie in ASIC Physical Design, where I enjoy exploring the challenges of timing closure, power optimization, and performance-driven implementation.
+
+I have hands-on experience with the RTL-to-GDSII flow using Cadence Innovus and Genus, along with RTL design and FPGA-based development projects. As I continue my journey in VLSI, I am actively deepening my understanding of Static Timing Analysis (STA), low-power design techniques, physical verification, and advanced implementation methodologies.
+
+My long-term goal is to develop expertise across the complete chip design lifecycle—from RTL design and verification to physical implementation and tapeout—while contributing to innovative semiconductor solutions.
+
+Current Focus Areas
+
+🔹 ASIC Physical Design & RTL-to-GDSII Flow
+🔹 Static Timing Analysis (STA) & Timing Closure
+🔹 RTL Design using Verilog/SystemVerilog
+🔹 FPGA-Based Digital System Development
+🔹 Low-Power Design & Physical Verification
+🔹 Semiconductor and VLSI Technologies
+
+I am always eager to learn, collaborate, and contribute to challenging opportunities in the VLSI and semiconductor industry.
 
 ---
 
@@ -38,6 +54,49 @@ Working across HDL, simulation, and design tools:
 <img src="https://s3-symbol-logo.tradingview.com/advanced-micro-devices--600.png" alt="Xilinx" width="80"/>  
 
 ---
+## 🎯 Areas of Interest
+
+* ASIC Physical Design
+* RTL to GDSII
+* Floorplanning and powerplanning
+* placement
+* Routing
+* Clock Tree Synthesis
+* Static Timing Analysis (STA)
+* RTL Design & Verification
+* FPGA Prototyping
+
+
+---
+
+## 📚 Currently Learning
+
+* Verilog & SystemVerilog
+* ASIC Physical Design Flow
+* Floorplanning
+* Placement Optimization
+* Clock Tree Synthesis (CTS)
+* Routing
+* Static Timing Analysis
+* UVM Fundamentals
+
+
+## 🌟 Featured Skills
+
+✅ Verilog HDL and SystemVerilog
+
+✅ FPGA Design
+
+✅ AMD Vivado and Vitis HLS
+
+✅ ASIC Physical Design (Floorplanning, placement, routing, CTS, STA)
+
+✅ Cadence: Virtuoso, Genus, Innovus
+
+✅ Linux
+
+✅ TCL Scripting, C Programming, Python
+
 
 ### Let's Connect!
 
