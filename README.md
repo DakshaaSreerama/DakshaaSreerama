@@ -35,7 +35,7 @@ Working across HDL, simulation, and design tools:
 
 #### 🔧 Hardware & Platforms  
 <img src="https://img.shields.io/badge/Board-PYNQ Z2-pink?style=flat-square" alt="PYNQ Z2" width="160"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Xilinx_logo.svg/1200px-Xilinx_logo.svg.png" alt="Xilinx" width="80"/>  
+<img src="https://s3-symbol-logo.tradingview.com/advanced-micro-devices--600.png" alt="Xilinx" width="80"/>  
 
 ---
 
