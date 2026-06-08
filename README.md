@@ -29,7 +29,7 @@ I am always eager to learn, collaborate, and contribute to challenging opportuni
 - **Design of 8-bit ALU** and **implementation on FPGA (PYNQ-Z2)** and **Synthesized and analyzed reports using Cadence Genus**
 - **Parameterized Synchronous FIFO IP core design**
 - **Mini Processor with Python Assembler on PYNQ-Z2 MpSOc**
-
+- **PicoRV32 RISC-V Core - RTL to GDSII using OpenLane**
 
 ### 🛠️ Tools & Tech Stack
 
